@@ -1,4 +1,4 @@
-# oss 깃허브 교과목 내용 정리 
+# oss 깃허브 교과목 내용 정리 📒 
 ## 깃 설정
 $ git config --global user.name ---- 사용자 이름
 
